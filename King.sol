@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Attack {
+contract King {
     address payable public king;
     uint256 public warchest;
 
